@@ -1,0 +1,4 @@
+15:04:37.227 [main]INFO  Demo Logger - Here is log info
+15:04:37.231 [main]WARN  Demo Logger - Here is log warn
+15:04:37.232 [main]FATAL Demo Logger - Here is log fatal
+15:04:37.232 [main]DEBUG Demo Logger - here is log debug
